@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>453282446367-0ookeoj57719g8mbcovgqk2lb9gdsqua.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.453282446367-0ookeoj57719g8mbcovgqk2lb9gdsqua</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALIMnyioZiGo8gG06hnrHFeyMOj0jbTs4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>453282446367</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jboi.Honda-Hack-2019</string>
+	<key>PROJECT_ID</key>
+	<string>viscar-0x</string>
+	<key>STORAGE_BUCKET</key>
+	<string>viscar-0x.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:453282446367:ios:5b46b7df69197b8e</string>
+	<key>DATABASE_URL</key>
+	<string>https://viscar-0x.firebaseio.com</string>
+</dict>
+</plist>
